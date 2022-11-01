@@ -1,0 +1,37 @@
+﻿  GenerateHtml.c
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(234,9): warning C4033: 'createLink' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(249,9): warning C4033: 'createSortSampleHtmlLink' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(289,66): warning C4244: 'function': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(613,28): warning C4477: 'sprintf' : format string '%zu' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'DWORD'
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(613,28): message : consider using '%lu' in the format string
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(566,14): warning C4101: 'currentDll': unreferenced local variable
+  dllStruct.c
+C:\Users\EDENM\source\repos\Project2\Project2\dllStruct.c(20,3): warning C4033: 'addDllItem' must return a value
+  proccesStruct.c
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(22,3): warning C4033: 'addProccessItem' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(164,5): warning C4033: 'SumProccesses' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(187,6): warning C4033: 'SumProccesses' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(258,9): warning C4033: 'SumProccesses' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(353,5): warning C4033: 'removeProccessMultiplies' must return a value
+  sampleStruct.c
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(23,3): warning C4033: 'addSampleItem' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(112,5): warning C4033: 'getFullProccessListBySampleList' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(190,7): warning C4033: 'getProccessListByDllName' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(264,7): warning C4033: 'removeMultiplies' must return a value
+  sortedProccessList.c
+C:\Users\EDENM\source\repos\Project2\Project2\sortedProccessList.c(81,3): warning C4033: 'sortByDll' must return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sortedProccessList.c(115,4): warning C4033: 'makeCopySortedList' must return a value
+  Generating Code...
+C:\Users\EDENM\source\repos\Project2\Project2\sortedProccessList.c(101): warning C4715: 'sortByDll': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sortedProccessList.c(162): warning C4715: 'makeCopySortedList': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(158): warning C4715: 'getFullProccessListBySampleList': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(48): warning C4715: 'addSampleItem': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(236): warning C4715: 'getProccessListByDllName': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\sampleStruct.c(299): warning C4715: 'removeMultiplies': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(52): warning C4715: 'addProccessItem': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(303): warning C4715: 'SumProccesses': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\proccesStruct.c(395): warning C4715: 'removeProccessMultiplies': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\dllStruct.c(42): warning C4715: 'addDllItem': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(254): warning C4715: 'createSortSampleHtmlLink': not all control paths return a value
+C:\Users\EDENM\source\repos\Project2\Project2\GenerateHtml.c(239): warning C4715: 'createLink': not all control paths return a value
+  Project2.vcxproj -> C:\Users\EDENM\source\repos\Project2\x64\Debug\Project2.exe
